@@ -250,7 +250,7 @@ section4 h2{
 .section4 .testimony{
     position: relative;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.90)),
-    url('img7.jpg');
+    url('images/img7.jpg');
     height: 400px;
     background-size: cover;
     background-position: center;  
@@ -324,7 +324,7 @@ section4 h2{
 .section6{
     text-align: center;    
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)),
-    url(img13.jpg);
+    url(images/img13.jpg);
     background-size: cover;
     background-position: center;
     height: 200px;
@@ -413,7 +413,7 @@ buton{
 .section8{
     position: relative;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
-    url(FEM.jpg) ;   
+    url(images/FEM.jpg) ;   
     background-size: cover;
     background-position: center;
     height: 400px;
